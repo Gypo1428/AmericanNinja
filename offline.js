@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1594159813,
+	"version": 1594226682,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,6 +11,7 @@
 		"images/sprite-sheet0.png",
 		"images/hijackerhurtbox-sheet0.png",
 		"images/playerhurtbox-sheet0.png",
+		"images/playerhurtbox-sheet1.png",
 		"images/playerhurtboxkick-sheet0.png",
 		"images/jumpkickhitright-sheet0.png",
 		"images/punchhit-sheet0.png",
@@ -18,8 +19,7 @@
 		"images/slamhit-sheet0.png",
 		"images/jumpkickhitleft-sheet0.png",
 		"images/slamhit2-sheet0.png",
-		"images/playerplasterboxleft-sheet0.png",
-		"images/playerplasterboxright-sheet0.png",
+		"images/jumpkickmiddle-sheet0.png",
 		"images/bullet1-sheet0.png",
 		"images/bullet1-sheet1.png",
 		"images/hijacker2-sheet0.png",
