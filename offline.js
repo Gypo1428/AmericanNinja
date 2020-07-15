@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1594746965,
+	"version": 1594819591,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -110,6 +110,11 @@
 		"images/ground2-sheet0.png",
 		"images/groundstep-sheet0.png",
 		"images/spawnslam-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/tiledbackground3.png",
+		"images/tiledbackground4.png",
+		"images/blackscreen-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
